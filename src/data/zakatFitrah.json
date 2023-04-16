@@ -1,0 +1,272 @@
+[
+  {
+    "no": 1,
+    "nama_donatur": "Andi Susanto",
+    "alias": "",
+    "nominal_donasi": 500000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga donasinya bermanfaat untuk saudara-saudara kita yang membutuhkan.",
+    "keterangan": "-"
+  },
+  {
+    "no": 2,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 250000,
+    "metode_pembayaran": "Mandiri",
+    "doa": "Semoga amal baik ini diterima dan menjadi penambah kebaikan di dunia dan akhirat.",
+    "keterangan": "-"
+  },
+  {
+    "no": 3,
+    "nama_donatur": "Putri Fitria",
+    "alias": "",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "Gopay",
+    "doa": "Semoga keluarga dan orang-orang tersayang senantiasa diberikan keberkahan dan kesehatan.",
+    "keterangan": "-"
+  },
+  {
+    "no": 4,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 75000,
+    "metode_pembayaran": "Dana",
+    "doa": "Semoga Allah senantiasa memudahkan jalan kita menuju surga-Nya.",
+    "keterangan": "-"
+  },
+  {
+    "no": 5,
+    "nama_donatur": "Budi Hartono",
+    "alias": "",
+    "nominal_donasi": 1000000,
+    "metode_pembayaran": "BRI",
+    "doa": "Semoga bantuan ini dapat membantu memperbaiki kualitas hidup saudara-saudara kita yang membutuhkan.",
+    "keterangan": "-"
+  },
+  {
+    "no": 6,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga Allah membalas kebaikan ini dengan keberkahan yang melimpah.",
+    "keterangan": "-"
+  },
+  {
+    "no": 7,
+    "nama_donatur": "Fitri Nur Azizah",
+    "alias": "",
+    "nominal_donasi": 200000,
+    "metode_pembayaran": "OVO",
+    "doa": "Semoga kita semua selalu diberikan kemudahan dalam hidup dan beribadah.",
+    "keterangan": "-"
+  },
+  {
+    "no": 8,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "BTN",
+    "doa": "Semoga donasi ini menjadi sarana mendapatkan ridha-Nya.",
+    "keterangan": "-"
+  },
+  {
+    "no": 9,
+    "nama_donatur": "Ahmad Hidayat",
+    "alias": "-",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga bermanfaat untuk yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 10,
+    "nama_donatur": "Rina Wati",
+    "alias": "-",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "Gopay",
+    "doa": "Semoga Allah memberikan keberkahan dalam hidupnya",
+    "keterangan": "-"
+  },
+  {
+    "no": 11,
+    "nama_donatur": "Budi Setiawan",
+    "alias": "-",
+    "nominal_donasi": 250000,
+    "metode_pembayaran": "BRI",
+    "doa": "Semoga ini bisa membantu sedikit dalam mengurangi beban mereka",
+    "keterangan": "-"
+  },
+  {
+    "no": 12,
+    "nama_donatur": "Anisa Putri",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "Dana",
+    "doa": "Semoga doa saya bisa membantu mereka meraih kebahagiaan",
+    "keterangan": "-"
+  },
+  {
+    "no": 13,
+    "nama_donatur": "Iwan Susanto",
+    "alias": "-",
+    "nominal_donasi": 75000,
+    "metode_pembayaran": "ShopeePay",
+    "doa": "Semoga bermanfaat bagi mereka yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 14,
+    "nama_donatur": "Nurul Aini",
+    "alias": "-",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "OVO",
+    "doa": "Semoga bisa memberikan sedikit kebahagiaan bagi mereka",
+    "keterangan": "-"
+  },
+  {
+    "no": 15,
+    "nama_donatur": "Eko Prasetyo",
+    "alias": "-",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "BTN",
+    "doa": "Semoga menjadi amal jariyah yang terus mengalir",
+    "keterangan": "-"
+  },
+  {
+    "no": 16,
+    "nama_donatur": "Diana Kusuma",
+    "alias": "-",
+    "nominal_donasi": 150000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga kebaikan ini mendapat balasan yang berlimpah dari Allah SWT",
+    "keterangan": "-"
+  },
+  {
+    "no": 17,
+    "nama_donatur": "Heryanto",
+    "alias": "-",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "Mandiri",
+    "doa": "Semoga bermanfaat untuk yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 18,
+    "nama_donatur": "Andi",
+    "alias": "-",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga Allah SWT membalas kebaikan Anda",
+    "keterangan": "-"
+  },
+  {
+    "no": 19,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "Gopay",
+    "doa": "Semoga donasi ini bermanfaat bagi yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 20,
+    "nama_donatur": "Mawar",
+    "alias": "-",
+    "nominal_donasi": 200000,
+    "metode_pembayaran": "BTN",
+    "doa": "Semoga menjadi amal jariyah yang mengalir hingga akhirat",
+    "keterangan": "-"
+  },
+  {
+    "no": 21,
+    "nama_donatur": "Zaki",
+    "alias": "-",
+    "nominal_donasi": 250000,
+    "metode_pembayaran": "Mandiri",
+    "doa": "Diberikan keberkahan rezeki dan kesehatan selalu",
+    "keterangan": "-"
+  },
+  {
+    "no": 22,
+    "nama_donatur": "Siska",
+    "alias": "-",
+    "nominal_donasi": 75000,
+    "metode_pembayaran": "OVO",
+    "doa": "Semoga kebaikan ini mendapat ridho dari Allah SWT",
+    "keterangan": "-"
+  },
+  {
+    "no": 23,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "Dana",
+    "doa": "Diberikan kelancaran dalam segala urusan",
+    "keterangan": "-"
+  },
+  {
+    "no": 24,
+    "nama_donatur": "Dewi",
+    "alias": "-",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga bermanfaat bagi yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 25,
+    "nama_donatur": "Hamba Allah",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 150000,
+    "metode_pembayaran": "Gopay",
+    "doa": "Diberikan kemudahan dalam segala urusan",
+    "keterangan": "-"
+  },
+  {
+    "no": 26,
+    "nama_donatur": "Joko",
+    "alias": "-",
+    "nominal_donasi": 1000000,
+    "metode_pembayaran": "BTN",
+    "doa": "Diberikan keberkahan dalam usaha dan kehidupan",
+    "keterangan": "-"
+  },
+  {
+    "no": 27,
+    "nama_donatur": "Andi Wijaya",
+    "alias": "-",
+    "nominal_donasi": 100000,
+    "metode_pembayaran": "BCA",
+    "doa": "Semoga donasi ini bermanfaat bagi yang membutuhkan",
+    "keterangan": "-"
+  },
+  {
+    "no": 28,
+    "nama_donatur": "Anisa Rizki",
+    "alias": "Hamba Allah",
+    "nominal_donasi": 50000,
+    "metode_pembayaran": "Gopay",
+    "doa": "Semoga selalu diberi kesehatan dan kebahagiaan",
+    "keterangan": "-"
+  },
+  {
+    "no": 29,
+    "nama_donatur": "Budi Santoso",
+    "alias": "-",
+    "nominal_donasi": 200000,
+    "metode_pembayaran": "Mandiri",
+    "doa": "Semoga bermanfaat dan mendapat pahala yang berlipat",
+    "keterangan": "-"
+  },
+  {
+    "no": 30,
+    "nama_donatur": "Siti Maulidah",
+    "alias": "-",
+    "nominal_donasi": 250000,
+    "metode_pembayaran": "OVO",
+    "doa": "Semoga Allah SWT membalas kebaikan ini",
+    "keterangan": "-"
+  }
+]
